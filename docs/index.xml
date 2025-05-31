@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>このブログについて 藤原琢巳のPublic Obsidianでようこそ！ 個人的にメモを Obsidianでまとめていたのですが、保存不要なメモも増えてきてしまいました。 また、僕は怠惰な性格なので、公開しないとメモのクオリティが下がります。 そこで、ツェッテルカステン方式のメモの自分なり区分を分けることにしました。 公開する情報 ⇒ ほとんどの情報は、見られて困るもの以外は精査をして公開するようにします。 秘匿保管する情報 ⇒ 公開する情報をまとめるために集めた資料や、プライベートの記事は秘匿してリンクをはります。 意図的な保管はしないけど、保持する情報 ⇒ これがやっかいです。思考プロセス...</description>
+    <pubDate>Sat, 31 May 2025 00:10:49 GMT</pubDate>
+  </item><item>
+    <title>【無料でブログ作成】ObsidianとGitHub Pagesで、静的サイトをホスティングしてみた！</title>
+    <link>https://quartz.jzhao.xyz/zenn/%E3%80%90%E7%84%A1%E6%96%99%E3%81%A7%E3%83%96%E3%83%AD%E3%82%B0%E4%BD%9C%E6%88%90%E3%80%91Obsidian%E3%81%A8GitHub-Pages%E3%81%A7%E3%80%81%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%83%9B%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%EF%BC%81</link>
+    <guid>https://quartz.jzhao.xyz/zenn/%E3%80%90%E7%84%A1%E6%96%99%E3%81%A7%E3%83%96%E3%83%AD%E3%82%B0%E4%BD%9C%E6%88%90%E3%80%91Obsidian%E3%81%A8GitHub-Pages%E3%81%A7%E3%80%81%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%83%9B%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%EF%BC%81</guid>
+    <description>まえがき 今回は、ObsidianとGitHub Pagesを使って静的サイトを無料で公開する方法を紹介したいと思います。 Obsidian公式もPublic機能を提供しているのですが、年間96$、約 14000 円もするので、今回は、GitHub Pagesを使って無料でサイトを公開する方法を公開したいと思います！ この記事では、ObsidianやGitHub Pagesの詳細説明は省かせて頂きます。 今回は、Obsidianを公開するための静的サイトフレームワークとしては、Quartz4を利用しています！ 理由は単純にUIがかっこいいからです！ ステップ1.</description>
+    <pubDate>Sat, 31 May 2025 00:10:49 GMT</pubDate>
+  </item><item>
+    <title>勉強したいこと</title>
+    <link>https://quartz.jzhao.xyz/%E5%8B%89%E5%BC%B7%E3%81%97%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8/%E5%8B%89%E5%BC%B7%E3%81%97%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8</link>
+    <guid>https://quartz.jzhao.xyz/%E5%8B%89%E5%BC%B7%E3%81%97%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8/%E5%8B%89%E5%BC%B7%E3%81%97%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8</guid>
+    <description> Github CLIについて調べる。 .</description>
+    <pubDate>Sat, 31 May 2025 00:10:49 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
